@@ -5,7 +5,6 @@ import 'package:sixam_mart/util/images.dart';
 class AppConstants {
   static const String APP_NAME = '6amMart';
   static const double APP_VERSION = 1.7;
-  //static const double APP_VERSION = 1.7;
 
   //static const String BASE_URL = 'https://6ammart-admin.6amtech.com';
   static const String BASE_URL = 'https://web.neetfood.site';
